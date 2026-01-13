@@ -1,7 +1,11 @@
 <div align="center"><a name="readme-top"></a>
+  
 
 <img height="120" src="https://embeddr.net/embeddr_logo_transparent.png">
 
+
+Embeddr is an orchestration layer that turns files, media, and data into structured, searchable artifacts using pluggable engines — all controlled via APIs, MCP, or UI, and stored locally on your machine.
+  
 [![pypi version][pypi-image]][pypi-url]
 [![embeddr-core version][embeddr-core-image]][embedd-core-url]
 [![embeddr-frontend][embeddr-frontend-image]][embedd-frontend-url]
