@@ -13,6 +13,11 @@ Embeddr is an orchestration layer that turns files, media, and data into structu
 
 [![license][license-image]][license-url]
 
+[![discord][discord-image]][discord-url]
+
+
+[discord-image]: https://img.shields.io/discord/418083836795289601?style=flat-square&logo=Discord&labelColor=%232f2f2f&color=%234f4f4f
+[discord-url]: [https://pypi.org/project/embeddr-cli](https://discord.gg/vET7VJzKKT)
 
 [pypi-image]: https://img.shields.io/pypi/v/embeddr-cli?style=flat-square&&logo=Python&logoColor=%23ffd343&label=cli&labelColor=%232f2f2f&color=%234f4f4f
 [pypi-url]: https://pypi.org/project/embeddr-cli
