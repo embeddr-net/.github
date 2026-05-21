@@ -1,7 +1,7 @@
 <div align="center"><a name="readme-top"></a>
   
 
-<img height="120" src="https://embeddr.net/embeddr_logo_transparent.png">
+<img height="120" src="https://raw.githubusercontent.com/embeddr-net/.github/main/assets/embeddr_logo_transparent.webp">
 
 
 Embeddr is an orchestration layer that turns files, media, and data into structured, searchable artifacts using pluggable engines — all controlled via APIs, MCP, or UI, and stored locally on your machine.
